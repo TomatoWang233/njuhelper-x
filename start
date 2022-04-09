@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo nohup python main.py > njuhelper-x.log 2>&1 &
